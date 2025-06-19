@@ -54,3 +54,26 @@ This is a full-stack clone of the popular accommodation booking platform, AirBnB
 A good booking experience helps users complete tasks without confusion or frustration.  
 It improves customer trust, increases conversion rates, and reduces drop-offs.  
 By keeping the design simple, responsive, and clear, users are more likely to complete their bookings and return in the future.
+
+
+---
+
+### Color Styles
+
+- **Primary:** `#FF5A5F` (Main accent color)
+- **Secondary:** `#008489` (Buttons or highlights)
+- **Background:** `#FFFFFF` (Main background)
+- **Text:** `#222222` (Primary text)
+- **Secondary Text:** `#717171` (Muted text or labels)
+
+### Typography
+
+- **Primary Font:** Circular
+- **Body Text:** Medium (500), 16px
+- **Headings:** Bold (700), between 24px–32px
+- **Secondary Text:** Book (400), 14px
+
+### Why It’s Important to Identify Design Properties
+
+Understanding the design specifications (like colors and fonts) in a mockup is key to building a consistent and professional user interface.  
+It helps developers and designers stay aligned with the brand’s visual identity and ensures the application looks polished, accessible, and easy to use.
