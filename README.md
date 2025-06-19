@@ -21,3 +21,6 @@ This is a full-stack clone of the popular accommodation booking platform, AirBnB
 ## 📂 Project Status
 
 🚧 In development
+
+## 👨‍💻 Contributors
+- Dani Kandie
