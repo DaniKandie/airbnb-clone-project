@@ -2,7 +2,7 @@
 
 This is a full-stack clone of the popular accommodation booking platform, AirBnB.
 
-## 🚀 Project Goals
+## Project Goals
 
 - Browse and filter property listings
 - View detailed property information
@@ -10,7 +10,7 @@ This is a full-stack clone of the popular accommodation booking platform, AirBnB
 - Practice responsive UI/UX design
 - Build a full-stack application from scratch
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express
@@ -18,24 +18,24 @@ This is a full-stack clone of the popular accommodation booking platform, AirBnB
 - **Version Control**: Git and GitHub
 - **Design**: Figma
 
-## 📂 Project Status
+## Project Status
 
 🚧 In development
 
-## 👨‍💻 Contributors
+## Contributors
 - Daniel Kandie
 
 ---
 
-## 🎨 UI/UX Design Planning
+## UI/UX Design Planning
 
-### 🧭 Design Goals
+### Design Goals
 - Create an intuitive and smooth booking flow
 - Ensure the app is visually consistent and professional
 - Optimize for fast loading speeds
 - Make the design responsive on all devices (especially mobile)
 
-### 🌟 Key Features
+### Key Features
 - Search and filter available properties
 - View detailed information about a property
 - Book a property securely
@@ -49,7 +49,7 @@ This is a full-stack clone of the popular accommodation booking platform, AirBnB
 | **Listing Detailed View**     | A detailed page showing property images, description, price, and a booking form |
 | **Simple Checkout View**      | A minimal checkout screen for entering payment details and confirming the booking |
 
-### 🧠 Why User-Friendly Design Matters
+### Why User-Friendly Design Matters
 
 A good booking experience helps users complete tasks without confusion or frustration.  
 It improves customer trust, increases conversion rates, and reduces drop-offs.  
