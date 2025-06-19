@@ -77,3 +77,20 @@ By keeping the design simple, responsive, and clear, users are more likely to co
 
 Understanding the design specifications (like colors and fonts) in a mockup is key to building a consistent and professional user interface.  
 It helps developers and designers stay aligned with the brand’s visual identity and ensures the application looks polished, accessible, and easy to use.
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+This project involves a collaborative team with clearly defined roles. Each role plays an important part in ensuring the success of the AirBnB Clone.
+
+| **Role**            | **Responsibilities**                                                                 |
+|---------------------|--------------------------------------------------------------------------------------|
+| **Project Manager** | Oversees the timeline, coordinates the team, manages deliverables and milestones     |
+| **Frontend Developers** | Build the user interface, create reusable components, and ensure responsive design  |
+| **Backend Developers**  | Develop APIs, manage the database, and implement business logic                    |
+| **Designers**        | Create wireframes and mockups, manage the design system, and ensure great user experience |
+| **QA/Testers**       | Write test cases, find and report bugs, ensure the app works as expected             |
+| **DevOps Engineers** | Set up deployment environments, manage the CI/CD pipeline, and monitor infrastructure |
+| **Product Owner**    | Define product features, prioritize tasks, and represent user/stakeholder needs      |
+| **Scrum Master**     | Organize meetings, remove team blockers, and ensure agile processes are followed     |
