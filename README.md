@@ -80,7 +80,7 @@ It helps developers and designers stay aligned with the brand’s visual identit
 
 ---
 
-## 👥 Project Roles and Responsibilities
+## Project Roles and Responsibilities
 
 This project involves a collaborative team with clearly defined roles. Each role plays an important part in ensuring the success of the AirBnB Clone.
 
@@ -94,3 +94,45 @@ This project involves a collaborative team with clearly defined roles. Each role
 | **DevOps Engineers** | Set up deployment environments, manage the CI/CD pipeline, and monitor infrastructure |
 | **Product Owner**    | Define product features, prioritize tasks, and represent user/stakeholder needs      |
 | **Scrum Master**     | Organize meetings, remove team blockers, and ensure agile processes are followed     |
+
+---
+
+## UI Component Patterns
+
+To make our design scalable and efficient, we will build reusable UI components. These components will be used across multiple pages to maintain consistency and simplify development.
+
+### Planned Components
+
+#### Navbar
+- Logo
+- Search bar
+- User navigation (login, profile, etc.)
+- Responsive mobile menu
+
+#### Property Card
+- Property image
+- Basic details (price, location, rating)
+- Favorite (heart) button
+- Responsive layout for grid view
+
+####  Property Details Section
+- Large image gallery
+- Title and host info
+- Full description
+- Booking form
+
+#### Checkout Form
+- Guest details form
+- Payment section
+- Confirm booking button
+
+#### Footer
+- Useful site links
+- Social media links
+- Company info
+- Copyright
+
+Each component will be:
+- **Reusable**: Can be used in different parts of the app
+- **Consistent**: Matches the design system
+- **Responsive**: Works well on mobile and desktop
