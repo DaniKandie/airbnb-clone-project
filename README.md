@@ -2,6 +2,11 @@
 
 This is a full-stack clone of the popular accommodation booking platform, AirBnB.
 
+## Table of Contents
+1. [UI/UX Design Planning](#uiux-design-planning)
+2. [Project Roles and Responsibilities](#project-roles-and-responsibilities)
+3. [UI Component Patterns](#ui-component-patterns)
+
 ## Project Goals
 
 - Browse and filter property listings
